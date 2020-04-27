@@ -1,0 +1,262 @@
+Albánie;Tirana
+Andora;Andorra la Vella
+Arménie;Jerevan
+Ázerbajdžán;Baku
+Belgie;Brusel
+Bělorusko;Minsk
+Bosna a Hercegovina;Sarajevo
+Bulharsko;Sofie
+Černá Hora;Podgorica
+Česká republika;Praha
+Dánsko;Kodaň
+Estonsko;Tallinn
+Finsko;Helsinky
+Francie;Paříž
+Gruzie;Tbilisi
+Chorvatsko;Záhřeb
+Irsko;Dublin
+Island;Reykjavík
+Itálie;Řím
+Kazachstán;Astana
+Kypr;Nikósie
+Lichtenštejnsko;Vaduz
+Litva;Vilnius
+Lotyšsko;Riga
+Lucembursko;Lucemburk
+Maďarsko;Budapešť
+Makedonie;Skopje
+Malta;Valletta
+Moldavsko;Kišiněv
+Monako;Monaco-Ville
+Německo;Berlín
+Nizozemsko;Amsterdam
+Norsko;Oslo
+Polsko;Varšava
+Portugalsko;Lisabon
+Rakousko;Vídeň
+Rumunsko;Bukurešť
+Rusko;Moskva
+Řecko;Atény
+San Marino;San Marino
+Slovensko;Bratislava
+Slovinsko;Lublaň
+Velká Británie;Londýn
+Srbsko;Bělehrad
+Španělsko;Madrid
+Švédsko;Stockholm
+Švýcarsko;Bern
+Turecko;Ankara
+Ukrajina;Kyjev
+Vatikán;Vatikán
+Afghánistán;Kábul
+Arménie;Jerevan
+Ázerbájdžán;Baku
+Bahrajn;Manáma
+Bangladéš;Dháka
+Bhútán;Thimphu
+Brunej;Bandar Seri Begawan
+Čína;Peking
+Filipíny;Manila
+Gruzie;Tbilisi
+Indie;Dillí
+Indonésie;Jakarta
+Irák;Bagdád
+Írán;Teherán
+Izrael;Jeruzalém
+Japonsko;Tokio
+Jemen;Sana
+Jižní Korea;Soul
+Jordánsko;Ammán
+Kambodža;Phnompenh
+Katar;Dauhá
+Kazachstán;Astana
+Kuvajt;Kuvajt
+Kyrgyzstán;Biškek
+Laos;Vientiane
+Libanon;Bejrút
+Malajsie;Kuala Lumpur
+Maledivy;Male
+Mongolsko;Ulánbátar
+Myanmar;Neipyijto
+Omán;Maskat
+Nepál;Káthmándú
+Pákistán;Islámábád
+Saúdská Arábie;Rijád
+Severní Korea;Pchjongjang
+Singapur;Singapur
+Spojené arabské emiráty;Abú Dhabí
+Srí Lanka;Šrí Džajavardanapura Kotte
+Sýrie;Damašek
+Tádžikistán;Dušanbe
+Thajsko;Bangkok
+Turkmenistán;Ašchabad
+Uzbekistán;Taškent
+Vietnam;Hanoj
+Východní Timor;Dili
+Kanada;Ottawa
+USA;Washington
+Alabama;Montgomery
+Aljaška;Juneau
+Arizona;Phoenix
+Arkansas;Little Rock
+Colorado;Denver
+Connecticud;Hartford
+Delaware;Dover
+District of Columbia;Washington
+Florida;Tallahassee
+Georgia;Atlanta
+Havaj;Oahu
+Idaho;Boise
+Illinois;Springfield
+Indiana;Indianapolis
+Iowa;Des Moines
+Jižní Dakota;Pierre
+Jižní Karolína;Columbia
+Kalifornie;Sacramento
+Kansas;Topeka
+Kentucky;Frankfort
+Louisiana;Baton Rouge
+Maine;Augusta
+Maryland;Annapolis
+Massachusetts;Boston
+Michigan;Lansing
+Minnesota;St.Paul
+Mississippi;Jackson
+Missouri;Jefferson City
+Montana;Helena
+Nebraska;Lincoln
+Nevada;Carson City
+New Hampshire;Concord
+New Jersey;Trenton
+New York;Albany
+Nové Mexiko;Santa Fe
+Ohio;Columbus
+Oklahoma;Oklahoma City
+Oregon;Salem
+Pensylvánie;Harrisburg
+Rhode Island;Providence
+Severní Dakota;Bismarck
+Severní Karolína;Raleigh
+Tennessee;Nashville
+Texas;Austin
+Utah;Salt Lake City
+Vermont;Montpelier
+Virgínie;Richmond
+Washington;Olympia
+Wisconsin;Madison
+Wyoming;Cheyenne
+Západní Virginie;Charleston
+Antigua a Barbuda;Saint Johns
+Bahamy;Nassau
+Barbados;Bridgetown
+Belize;Belize
+Dominica;Roseau
+Dominikánská republika;Santo Domingo
+Grenada;St.Georges
+Guatemala;Guatemala
+Haiti;Port-au-Prince
+Honduras;Tegucigalpa
+Jamajka;Kingston
+Kostarika;San José
+Kuba;Havana (La Habana)
+Mexiko;Mexico city
+Nikaragua;Managua
+Panama;Panama
+Salvador;San Salvador
+Svatý Kryštof;Basseterre
+Svatá Lucie;Castries
+Svatý Vincenc a Granadiny;Kingtown
+Trinidad a Tobago;Port of Spain
+Argentina;Buenos Aires
+Bolívie;Sucre
+Brazílie;Brasília
+Ekvádor;Quito
+Guyana;Georgetown
+Chile;Santiago de Chile
+Kolumbie;Bogota
+Paraguay;Asunción
+Peru;Lima
+Surinam;Paramaribo
+Uruguay;Montevideo
+Venezuela;Caracas
+Austrálie;Canberra
+Fidži;Suva
+Kiribati;Jižní Tarawa
+Nauru;Yaren
+Nový Zéland;Wellington
+Papua-Nová Guinea;Port Moresby
+Samoa;Apia
+Šalamounovy ostrovy;Honiara
+Vanuatu;Port Vila
+Tonga;Nukualofa
+Tuvalu;Funafuti
+
+Alžírsko;Alžír
+Angola;Luanda
+Benin;Porto Novo
+Botswana;Gaborone
+Burkina;Faso Ouagadougou
+Burundi;Bujumbura
+Cabinda (Angola);Cabinda
+Ceuta (Španělsko);Ceuta
+Čad;N’Djamena
+Džibutsko;Džibuti
+Egypt;Káhira
+Eritrea;Asmara
+Etiopie;Addis Abeba
+Gabon;Libreville
+Gambie;Banjul
+Ghana;Accra
+Guinea;Conakry
+Guinea;Bissau Bissau
+Jihoafrická republika;Pretoria
+Jižní Súdán;Džuba
+Kamerun;Yaoundé
+Kanárské ostrovy;Santa Cruz
+Kapverdy;Praia
+Keňa;Nairobi
+Komory;Moroni
+Kongo-Brazzaville;Brazzaville
+Kongo-Kinshasa;Kinshasa
+Lesotho;Maseru
+Libérie;Monrovia
+Libye;Tripolis
+Madagaskar;Antananarivo
+Madeira (Portugalsko);Funchal
+Malawi;Lilongwe
+Mali;Bamako
+Maroko;Rabat
+Mauricius;Port Louis
+Mauritánie;Nuakšott
+Mayotte (Francie);Mamoudzou
+Melilla (Španělsko);Melilla
+Mosambik;Maputo
+Namibie;Windhoek
+Niger;Niamey
+Nigérie;Abuja
+Pobřeží slonoviny;Yamoussoukro
+Puntland (Somálsko);Garoowe
+Réunion (Francie);Saint-Denis
+Rovníková Guinea;Malabo
+Roztroušené ostrovy (Francie);Saint-Christophe
+Rwanda;Kigali
+Senegal;Dakar
+Seychely;Victoria
+Sierra Leone;Freetown
+Sokotra (Jemen);Hadibo
+Somaliland (Somálsko);Hargeysa
+Somálsko;Mogadišu
+Středoafrická republika;Bangui
+Súdán;Chartúm
+Svatá Helena, Ascension a Tristan da Cunha;Jamestown
+Svatý Tomáš a Princův ostrov;Sao Tome
+Svazijsko;Mbabane
+Španělské severoafrické državy;Ceuta a Melilla
+Tanzanie;Dodoma
+Togo;Lomé
+Tunisko;Tunis
+Uganda;Kampala
+Zambie;Lusaka
+Zanzibar (Tanzanie);Zanzibar
+Západní Sahara (Maroko);Al-Ajún
+Zimbabwe;Harare
